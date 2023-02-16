@@ -1,0 +1,14 @@
+body{
+  background-color: #b191a3
+}
+
+[href="portfolio.html"]{
+  color: #562867;
+}
+
+
+h1{
+  border-style: dashed;
+  border-width: 3px;
+  border-color: #5c1f3f;
+}
